@@ -1,2 +1,2 @@
 # Visión-Artificial
-Prácticas de la asignatura de Visión Artifical en la UDC
+Práctica 2 de la asignatura de Visión Artificial : Segmentación de disco óptico y copa para diagnóstico de glaucoma en retinografías
